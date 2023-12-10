@@ -1,0 +1,16 @@
+{
+    "02130dc4-bf74-406f-8af1-fd081e330233": "<i>손상:</i>",
+    "2c028477-c531-42a0-afb6-a79940571f32": "<i>관통:</i>",
+    "cd4fccfc-23d8-43fb-ab15-98d24ca23a0e": "광범위한 영역의 모든 무기에 추가 효과가 부여됩니다.\n<i>아군 무기:</i> <u>기술 사제의 {g|Encyclopedia:WarhammerIntelligence}INT{/g} {g|Encyclopedia:Bonus}보너스{/g}</u>{g|Encyclopedia:Round}라운드에서{/g} {g|Encyclopedia:Recoil}반동이 반{/g} 감된다. 적의 {g|Encyclopedia:DodgeGlossary}회피율{/g}이<u>(1 + INT 보너스</u> ) 라운드 동안 <u>(2 × INT 보너스)</u> %의 {g|Encyclopedia:Penalty}페널티{/g}를 받는다.\n<i>적의 무기:</i><u>기술 사제의 INT 보너스</u> 라운드에서 반동이 절반으로 증가한다. 아군의 회피율이 <u>(1 + INT 보너스</u> ) 라운드 동안 + <u>(2 × INT 보너스</u> )% 증가한다.",
+    "fce3091c-e35e-46d1-bf96-a3663a6c3dee": "기술 사제의 시스템에 서보스컬을 추가로 연결하면 {g|Encyclopedia:WarhammerPerception}지각{/g}이 +10 증가한다.",
+    "dde94cc3-c218-48fa-847a-40c22a1b0a55": "탄도 기계 촉수",
+    "d9667a6e-cf5b-4b08-9751-3933ad778b13": "탄도 기계 촉수는 기술 사제가 모든 {g|Encyclopedia:Range}원격{/g} 무기를 핸즈프리로 사용할 수 있게 한다.",
+    "803fffb7-7aaf-4155-937d-d5a647901585": "만기신의 도끼를 이용한 {g|Encyclopedia:WarhammerWeaponSkill}무기 스킬{/g}에 +15{g|Encyclopedia:Bonus}보너스{/g}가 부여된다",
+    "0583c135-ba13-418b-853b-171003917e17": "기계 정령 그룹",
+    "8f0250db-c759-4613-924f-0d1823cd7a9c": "매니퓰레이터 기계 촉수",
+    "7846283c-50cb-4663-8da2-84606c48c85a": "관통",
+    "22814e54-5d6d-4882-8e1e-203d087c2677": "스캐너 기계 촉수",
+    "c2ffa639-bd04-4ab8-a38d-bef7186714ca": "시큐터 근접 프로토콜",
+    "36c9fa90-1db3-48df-af9d-d7af114ffaee": "이 기계 촉수는 기계 정령과 상호 작용하는 다양한 도구를 갖추고 있습니다. {g|Encyclopedia:SkillTechUse}기술 사용{/g}과 {g|Encyclopedia:SkillDemolition}해체{/g}가 +10 증가한다.",
+    "57cf9fba-9d3c-4d11-8a0a-3dfd08e7d034": "유틸리티 메카덴 라이트"
+}

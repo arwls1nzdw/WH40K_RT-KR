@@ -1,0 +1,11 @@
+# python
+__pycache__
+venv
+
+.env
+.tmp
+
+# vscode
+.vscode
+
+blueprints

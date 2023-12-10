@@ -1,0 +1,11 @@
+{
+    "19ace1c5-6572-4115-ba15-89824c314309": "{n}Ravor does not look away. He is giving you a hard stare, his white brows furrowed.{/n} \"Seneschal... Will you tell us now? Who is that? Where's the Lord Cap'n?\"",
+    "20ee9fb6-c84f-4da5-99c2-9394105302d5": "\"No! Abelard, stop! I refuse!\"",
+    "30651f28-8615-4f8f-8216-6d22f037b312": "{n}The Seneschal turns to you. He looks at least half a decade older.{/n} \"The deed is done, {name}... My apologies. I meant to say, Lord Captain.\"",
+    "39d85534-2bc3-4e82-bed0-c83e3a8ed847": "{n}After waiting out the first wave of shocked cries, Abelard glances at you and continues,{/n} \"By right of blood succession and with the absence of other kin who could challenge this decision...\"",
+    "3a95cb24-9072-484c-a1ae-ae2671204240": "{n}Abelard nods absent-mindedly.{/n} \"The Navigator gave his life battling the storm that nearly claimed the von Valancius flagship. We will honour his memory along with that of all who died this day.\"",
+    "66f256fa-e5fa-4daa-aab8-0971d9ea1351": "[Say nothing]",
+    "e669a6cf-3bd5-4459-98d0-6cb0d28a667b": "{n}Ravor turns around and looks up at you. He hesitates for a few moments, then addresses Abelard, who is standing next to you.{/n} \"Seneschal, the Navigator's Sanctum is silent. The vox-signal is stable, which means...\"",
+    "fdb14699-616e-4862-8eab-cec0f8c56766": "{n}It takes time for Abelard to respond: you watch as he grits his teeth, unable to bring himself to say anything. Finally, he adjusts his blood-stained coat, straightens, and begins to speak,{/n} \"As First Officer, it is my duty... it is my duty to inform you, with the greatest regret and indelible sorrow, that Lord Captain Theodora von Valancius is dead. May her memory never fade from the annals of the dynasty.\"",
+    "ff9ac85c-bb3d-4a81-9d5d-0569196eaaaf": "\"...it is hereby declared that the successor to Theodora von Valancius is {name}, the rightful inheritor of the Warrant of Trade and the title of Rogue Trader. The official ascension ceremony will be held at a later time. In the interim...\" {n}Abelard stops short and glares fiercely at the confused officers.{/n} \"Have you lost your tongues? Hail your {mf|lord|lady} — it is because of {mf|his|her} toils that we all still live!\""
+}

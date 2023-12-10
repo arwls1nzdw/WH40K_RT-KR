@@ -1,0 +1,12 @@
+{
+    "fc1eb603-b3d9-4df9-adc7-a74ddc8f6d7e": "(20 × {g|Encyclopedia:PsyRating}초능력 비율{/g})",
+    "4db8a524-b622-450a-94ea-85554e0b199f": "(5 × 초능력 비율)",
+    "f634e78f-aa88-4c14-888b-14c1edf305f6": "회피 페널티",
+    "b4592d1f-6ada-4798-8f4b-bef87ecb1e04": "지배",
+    "c09adabc-4986-4c77-aa53-84c939521123": "불운",
+    "e8aa3042-b3c3-4ad8-846a-47e17d71faf0": "불운",
+    "bbf01d37-2849-482b-a93b-afb2fbbf8f44": "대상은 - {uip|ResistancePenalty|37a95446c4e74c77bf46439923527646}{g|Encyclopedia:Penalty}페널티{/g}를 받은 상태에서 {g|Encyclopedia:WarhammerWillpower}의지력{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}을 해야 한다. 실패할 경우, 다음 {g|Encyclopedia:Turn}턴{/g}에 모든 {g|Encyclopedia:MovementPoints}이동 포인트{/g}를 소모하여 이능인을 향해 최대한 가까이 가야 한다. 평소처럼 행동할 수 있지만, MP는 이능인에게 이동하는 데 모두 소모된다.\n그 턴 종료시, 그 타겟은 다시 의지력 저항 {g|Encyclopedia:Test}판정{/g}을 실시해야 하며, 실패하면 이 효과가 해제되지 않는다.",
+    "2d7373e7-f2be-47d3-9de7-506b9845d960": "타겟 {g|Encyclopedia:Dodge}회피{/g} - {uip|DodgePenalty|10e086fca83f44e0a4e040916d6ef587}한다.",
+    "ef517806-e580-4aa8-ae4a-3dbdf4a5b22d": "의지력 저항 판정의 페널티",
+    "0fbae367-30e0-406e-aedd-f2056ccc2e64": "{g|Encyclopedia:MovementPoints}MP{/g}와 {g|Encyclopedia:DodgeGlossary}회피{/g} - 50 % 감소"
+}

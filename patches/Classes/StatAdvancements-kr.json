@@ -1,0 +1,22 @@
+{
+    "37d619dd-50f1-4c76-94b3-0dbba7cdc3b2": "민첩 +5",
+    "3ce89f5f-85e1-4dd8-b01f-608a760fd627": "탄도 기능 +5",
+    "4154a670-a9f9-407d-ba1b-36c89e8bd9ae": "우정 +5",
+    "403d0e6c-92d9-498c-b409-fa61cf71d929": "지성 +5",
+    "21ba10a0-6942-4b39-886a-cffcfaff73ce": "지각 +5",
+    "bb784681-b37a-4585-aa08-701f70a1e4e6": "팔력 +5",
+    "2e4ff37d-4f5a-44ab-9e1e-841d7b00b902": "아에르다리는 초인적인 민첩성을 자랑하며, 수업에 관계없이 {g|Encyclopedia:WarhammerAgility}민첩{/g}, {g|Encyclopedia:WarhammerPerception}지각{/g}, {g|Encyclopedia:SkillAwareness}인식{/g} {g|Encyclopedia:Skills}스킬{/g} 시킬 수 있다.\n또한 {g|Encyclopedia:DodgeGlossary}회피{/g}율을 +15%, {g|Encyclopedia:InitiativeGlossary}이니셔티브{/g}를 +2 획득한다.",
+    "e736d1be-07c1-4aed-aabb-e79bc861b018": "애슐리안의 아들",
+    "f929145b-f83a-429d-94c1-dd8af572990f": "체력 +5",
+    "27ee6f59-76f0-40c3-a15b-c98481bd0408": "무기 스킬 +5",
+    "5a92400c-2e1d-498e-9d03-c75a530a6511": "의지력 +5",
+    "a6bc1469-0b9f-4608-9553-89125f83d20f": "{g|Encyclopedia:WarhammerAgility}민첩성{/g} (AGI)은 캐릭터의 민첩성, 반응 속도, 침착성을 나타낸다. 민첩성이 높은 캐릭터일수록 불안정한 폭발물을 능숙하게 다루거나 위험한 지형에서 균형 잡힌 이동을 할 수 있다. 캐릭터의 {g|Encyclopedia:InitiativeGlossary}주도권{/g}, {g|Encyclopedia:DodgeGlossary}회피율{/g}과 반응성을 향상시킨다. 캐릭터가 근접 무기를 사용하면 {g|Encyclopedia:DodgeReduction}회피 감소는{/g} 민첩의 절반이 된다.\n또한 캐릭터의 {g|Encyclopedia:SkillDemolition}해체{/g} 스킬에도 영향을 준다.",
+    "d036e304-3946-4b77-af81-6e01e3eb41c4": "{g|Encyclopedia:WarhammerBallisticSkill}탄도 스킬{/g} (BS)은 캐릭터가 모든 {g|Encyclopedia:Range}원거리{/g} 무기를 사용할 때 명중률을 나타낸다. 탄도 스킬이 높을수록 해당 캐릭터는 사격에 능숙하며, 총격전이나 소규모 전투에서 활약한다. 무기의 유효 사거리 내 원거리 공격의 기본 {g|Encyclopedia:HitSequenceGlossary}명중률{/g}은<u>30 + 탄도 스킬에</u> 해당한다.",
+    "c6f4c7bc-0ccd-4f6e-8e06-16a4f2cbd8be": "{g|Encyclopedia:WarhammerFellowship}우정{/g} (FEL)은 캐릭터가 다른 생명체와 교류하고, 속이고, 매료시키고, 우정을 맺는 {g|Encyclopedia:Ability}능력{/g}을 나타낸다. 우정이 높은 캐릭터일수록 무뚝뚝한 시종들과 어울릴 수 있는 방법을 찾거나, 악덕 상인들과 쉽게 거래할 수 있다.\n{g|Encyclopedia:SkillPersuasion}설득{/g}, {g|Encyclopedia:SkillCoercion}강요{/g}, {g|Encyclopedia:SkillCommerce}상거래{/g} {g|Encyclopedia:Skills}기술에도{/g} 영향을 미친다.",
+    "f7dee261-95a7-4801-a2b4-259d2d1c617a": "{g|Encyclopedia:WarhammerIntelligence}지능{/g} (INT)은 캐릭터의 통찰력, 이성, 지식을 나타낸다.\n{g|Encyclopedia:SkillLoreImperium}전승(제국){/g}, {g|Encyclopedia:SkillLoreWarp}전승(워프){/g}, {g|Encyclopedia:SkillLoreXenos}전승(제노){/g}), {g|Encyclopedia:SkillLogic}논리{/g}, {g|Encyclopedia:SkillMedicae}메디케어{/g}, {g|Encyclopedia:SkillTechUse}기술 사용{/g} {g|Encyclopedia:Skills}기술에도{/g} 영향을 미친다.",
+    "b52bcd5b-9940-4290-afd2-a60a09c24905": "{g|Encyclopedia:WarhammerPerception}지각{/g} (PER)은 캐릭터가 주변 상황을 어느 정도 인지하고 있는지를 나타낸다. 지능이 높은 캐릭터일수록 언더하이브를 뒤덮은 진흙탕 속에서 볼터쉘의 케이싱을 찾아내거나 누가 속이려 하는지 알아차릴 수 있다.\n{g|Encyclopedia:SkillAwareness}인식력{/g} 스킬에도 영향을 미쳐 캐릭터의 공격에 대한 적의 {g|Encyclopedia:DodgeGlossary}회피율{/g}을 감소시키는 효과도 있다.",
+    "91309fa8-28bd-480e-b947-371823a39cbc": "완력({g|Encyclopedia:WarhammerStrength}STR{/g})은 캐릭터의 물리적 강도를 나타낸다. 캐릭터가 근접 무기로 주는 {g|Encyclopedia:DamageGlossary}피해{/g}량에 영향을 주어 무거운 물체를 들어올릴 수 있다. 완력의 {g|Encyclopedia:Bonus}보너스{/g} 포인트 1개에 대해 근접 무기에 의한 데미지가 1 추가된다.\n또한 {g|Encyclopedia:SkillAthletics}신체 능력 스킬{/g}에도 영향을 미친다.",
+    "ec6e3092-2cf4-4993-838c-acb976c23c09": "{g|Encyclopedia:WarhammerToughness}체력{/g}은 캐릭터가 {g|Encyclopedia:Injury}부상에서{/g} 얼마나 빨리 회복되는지, 그리고 독극물, 독성 환경, 질병 및 기타 신체적 장애에 얼마나 잘 견딜 수 있는지를 나타낸다. 이 수치가 높을수록 물리적인 악영향에 저항할 확률과 캐릭터의 {g|Encyclopedia:HitPoints}상처{/g}가 증가한다. 체력 {g|Encyclopedia:Bonus}보너스{/g} 점수 1점당 캐릭터의 상처가 +10% 증가한다.\n또한 {g|Encyclopedia:SkillCarouse}신체 작용 내성{/g} 스킬에도 영향을 준다.",
+    "155986e5-041b-4bcb-816a-aaad463683f3": "{g|Encyclopedia:WarhammerWeaponSkill}무기 스킬{/g} (WS)은 모든 형태의 근접전에서 캐릭터의 능력을 나타낸다. 이 수치가 높을수록 {g|Encyclopedia:Parry}회피{/g}, 적의 회피 감소도, 그리고 {g|Encyclopedia:DodgeGlossary}근접 공격{/g}에 대한 회피율이 증가한다. 또한, {g|Encyclopedia:MeleeAttacksGlossary}근접전에서{/g} {g|Encyclopedia:CritChancesAndCritDamageGlossary}크리티컬 히트{/g} 확률이 증가한다.",
+    "e18cbeb5-8164-4ae0-bfc0-37374a451762": "{g|Encyclopedia:WarhammerWillpower}의지력{/g} (WP)은 캐릭터가{g|Encyclopedia:VeilDegradationGlossary}워프{/g} 의 공포를 견디고, 콜로누스 확장팩에서 만날 수 있는 무시무시한 적에 맞설 수 있는 {g|Encyclopedia:Ability}능력{/g}을 나타냅니다. 의지력이 높을수록 군중을 통제하거나 이단자를 심문할 수 있다.\n또한 정신적인 마이너스 효과나 {g|Encyclopedia:PsykerPowersGlossary}초능력{/g}에 저항할 확률이 증가한다."
+}
