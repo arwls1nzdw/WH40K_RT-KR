@@ -121,7 +121,5 @@ if __name__ == "__main__":
             metadata[key]['speaker'] = bp['speaker']
         if 'speakerGender' in bp:
             metadata[key]['speakerGender'] = bp['speakerGender']
-        if 'Answer' in Path(f).name:
-            metadata[key]['speaker'] = 'Player'
 
     utils.write_json(metadata, "patches/_metadata.json")
