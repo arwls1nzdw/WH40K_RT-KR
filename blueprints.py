@@ -110,16 +110,3 @@ if __name__ == "__main__":
         sorted(missingData['kr'].items(), key=lambda x: (enGB[x[0]]['Text'], x[0])))
     utils.write_json(missingData['en'], "patches/missing-en.json")
     utils.write_json(missingData['kr'], "patches/missing-kr.json")
-
-    metadata = defaultdict(lambda: defaultdict(dict))
-    for f in files:
-        bp = utils.load_json(f)
-        key = bp.get('key', bp.get('String', {}).get('m_Key'))
-
-        metadata[key]['path'] = f
-        if 'speaker' in bp:
-            metadata[key]['speaker'] = bp['speaker']
-        if 'speakerGender' in bp:
-            metadata[key]['speakerGender'] = bp['speakerGender']
-
-    utils.write_json(metadata, "patches/_metadata.json")
