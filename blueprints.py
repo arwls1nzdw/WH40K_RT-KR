@@ -64,7 +64,9 @@ if __name__ == "__main__":
     groupNames.update(getSubGroups("Weapons", 1))
     groupNames.update(getSubGroups("World/Areas", 1))
     groupNames.update(getSubGroups("World/Dialogs", 2))
+    groupNames.update(getSubGroups("World/Dialogs/Companions", 2))
     groupNames.update(getSubGroups("World/Quests", 1))
+    groupNames.update(getSubGroups("World/Quests/CompanionQuests", 1))
     groupNames.update(getSubGroups("World", 1))
     groupNames = sorted(groupNames)
 
