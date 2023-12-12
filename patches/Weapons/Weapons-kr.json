@@ -85,7 +85,7 @@
     "9f979053-ec0f-413f-a68c-d6bf96aac024": "적을 죽일 때마다 {g|Encyclopedia:RateOfFire}발사 속도{/g}+1",
     "d4cee490-8cc1-49b6-9502-0fade48b0bdf": "1발을 쏠 때마다 대상에 인접한 모든 캐릭터에게 추가 {g|Encyclopedia:RendingDamage}열상 피해{/g}<u>(5 × {g|Encyclopedia:WarhammerBallisticSkill}BS{/g} {g|Encyclopedia:Bonus}보너스{/g})</u> 와 방어구 {g|Encyclopedia:ArmourPenetration}관통력{/g} 40%를 부여한다.",
     "8718bf61-214d-48c0-87a4-8ec658328687": "공격이 성공할 때마다 주는 {g|Encyclopedia:BleedingEffect}출혈{/g}효과 +3",
-    "ae387895-f71a-487b-8995-6dcbbea09afc": "이 파워 액스를 사용하여 {g|Encyclopedia:HitSequenceGlossary}명중{/g}할 때마다 전투 종료 시까지 사용자의 {g|Encyclopedia:WarhammerStrength}팔력{/g}이 5 증가한다.",
+    "ae387895-f71a-487b-8995-6dcbbea09afc": "이 파워 액스를 사용하여 {g|Encyclopedia:HitSequenceGlossary}명중{/g}할 때마다 전투 종료 시까지 사용자의 {g|Encyclopedia:WarhammerStrength}완력{/g}이 5 증가한다.",
     "4fb9ad5c-639d-42d5-a423-cbdff941b01b": "덮을 수 없는 자의 연",
     "8c1496d8-f77a-43c4-9050-d00f21be1bd3": "엘리트 블라스트 권총",
     "efb3d952-8950-4a73-ba20-8472e6ce0a5c": "엘리트의 체인 소드",
