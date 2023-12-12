@@ -83,7 +83,7 @@
     "a99938f5-1b7c-4968-bdc1-39d0f2d7d0e4": "전투 종료까지 {g|Encyclopedia:CareerTacticianGlossary}전략의 달인{/g}의 {g|Encyclopedia:WarhammerFellowship}연대{/g}가 -40된다.",
     "5e1d6b33-714f-48ea-ac81-e497661e5e0c": "논쟁 불필요한 이점",
     "90e49931-2a87-4ad1-92b1-5a089d5d3b6d": "남겨둔 일",
-    "f050d2f4-afb2-4290-9f9d-91969d79e8f4": "{g|Encyclopedia:CareerTacticianGlossary}전략의 달인{/g}의 다음 {g|Encyclopedia:Turn}턴{/g}이 시작될 때까지 <b>마지막 사격</b> 의 일원으로 공격한 모든 아군은 {g|Encyclopedia:WarhammerBallisticSkill}탄도 스킬{/g}과 {g|Encyclopedia:WarhammerWeaponSkill}무기 스킬{/g}이 -20이 된다.",
+    "f050d2f4-afb2-4290-9f9d-91969d79e8f4": "{g|Encyclopedia:CareerTacticianGlossary}전략의 달인{/g}의 다음 {g|Encyclopedia:Turn}턴{/g}이 시작될 때까지 <b>마지막 사격</b>의 일원으로 공격한 모든 아군은 {g|Encyclopedia:WarhammerBallisticSkill}탄도 스킬{/g}과 {g|Encyclopedia:WarhammerWeaponSkill}무기 스킬{/g}이 -20이 된다.",
     "8bdddefb-36ae-410f-9eac-a9b763e8f694": "흔들리지 않는 사기",
     "91f9fa01-0b36-4475-9dd8-51ed668850a4": "<b>요충지</b> 사용 시 소비하는 <b>전술적 우위</b> 스택 수가 1/2이 아닌 1/4로 늘어난다.",
     "22469972-c558-4feb-ae71-0fd3029411e2": "{g|Encyclopedia:CareerTacticianGlossary}전략의 달인{/g} {g|Encyclopedia:Ability}능력{/g} {g|Encyclopedia:Career}타입{/g}의 효과를 받고 있는 아군에게 메디키트를 사용할 때, 해당 아군의 {g|Encyclopedia:HitPoints}체력{/g}을<u>(전략의 달인의 {g|Encyclopedia:WarhammerFellowship}FEL{/g} {g|Encyclopedia:Bonus}보너스{/g}) + (대상의 {g|Encyclopedia:WarhammerToughness}TGH{/g} 보너스) 만큼</u> 추가로 회복하고, {g|Encyclopedia:Test}판정{/g} 없이 추가로 {g|Encyclopedia:Injury}부상{/g} 1개를 제거한다.",

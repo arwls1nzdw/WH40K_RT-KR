@@ -42,7 +42,7 @@
     "0de12b82-6f30-46f5-9f34-2fe1212b348f": "헬리어 장갑",
     "c194105f-0e28-4931-b11d-a492a259172e": "사용자가 {g|Encyclopedia:DamageGlossary}피해{/g}를 입은 경우, 적은 사용자의 {g|Encyclopedia:Turn}턴{/g} 중에 이동한 셀마다 1-3의 {g|Encyclopedia:WarpDamage}워프 피해{/g} (10% {g|Encyclopedia:ArmourPenetration}아머 관통{/g})을 진다.\n<i>{g|Encyclopedia:SoulMarkCorruption}이단자{/g} -</i> 제자: 적들은 대신 1-6의 워프피해를 입는다.",
     "873920a3-0850-4623-b8dd-91f153ec32fb": "착용자가 {g|Encyclopedia:CareerAssassinGlossary}어쌔신{/g}에서 적의 공격을 성공적으로 {g|Encyclopedia:DodgeGlossary}회피{/g}했거나 {g|Encyclopedia:Parry}수유{/g}하면 착용자와 가장 가까운 측면의 적 에 자동으로 {g|Encyclopedia:Opening}간극{/g}이 추가된다.",
-    "4a0ecf68-028e-4719-964f-ffd19ba14279": "사용자의 {g|Encyclopedia:Range}원거리{/g} 공격이 적에게 {g|Encyclopedia:HitSequenceGlossary}명중{/g}하면, 사용자는 같은 적에 대한 다음 원격공격의 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}에 +5% 의 {g|Encyclopedia:Bonus}보너스{/g}가 부여된다. 이 효과는 쌓이지 않습니다.",
+    "4a0ecf68-028e-4719-964f-ffd19ba14279": "사용자의 {g|Encyclopedia:Range}원거리{/g} 공격이 적에게 {g|Encyclopedia:HitSequenceGlossary}명중{/g}하면, 사용자는 같은 적에 대한 다음 원격공격의 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}에 +5%의 {g|Encyclopedia:Bonus}보너스{/g}가 부여된다. 이 효과는 쌓이지 않습니다.",
     "a5863fb6-d9af-4f42-a1e0-47dfb6aad87d": "자신의 {g|Encyclopedia:WarhammerWeaponSkill}무기 스킬{/g}과 {g|Encyclopedia:Parry}수유{/g}가 10% 상승.",
     "7b9df3ab-d5e5-4065-a844-223d8fe6eff6": "사용자 무기의 {g|Encyclopedia:RateOfFire}발사 속도{/g}를 1 올린다. 적이 죽을 때마다 반경 2셀 이내에 있는 다른 모든 적에게 {g|Encyclopedia:PerplexedEffect}혼란{/g}을 부여한다.",
     "094e0930-9376-46a9-8646-1323e545295d": "불가피한 파멸",

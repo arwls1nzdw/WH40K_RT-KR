@@ -9,7 +9,7 @@
     "f767564d-85c3-459e-8caf-6f01e302c1c1": "(4 × {g|Encyclopedia:WarhammerBallisticSkill}(BS{/g} {g|Encyclopedia:Bonus}보너스{/g} + {g|Encyclopedia:WarhammerPerception}PER{/g} 보너스))",
     "396ef88c-d484-468e-8c7a-3c05c4825ff7": "(헌터의 {g|Encyclopedia:WarhammerPerception}PER{/g} {g|Encyclopedia:Bonus}보너스{/g})",
     "cf584025-99fc-4b82-9390-59bf1906ccde": "<u>(BS 보너스 + {g|Encyclopedia:WarhammerPerception}PER{/g} 보너스)</u>",
-    "3b7d3657-dc84-458f-9a1c-3a809220a8a3": "<b>강자 솎</b> 아내기가 추가로 - <u>(</u><u>대상의</u>{g|Encyclopedia:Deflection}위협도{/g}) 만큼의 <u> 대상의 위협도</u>, - <u>(2 × 대상</u> 의 위협도) 만큼의 {g|Encyclopedia:WarhammerWillpower}의지력{/g}, - <u>(2 × 대상의 위협도</u> ) 만큼의 {g|Encyclopedia:WarhammerToughness}강인함{/g}을 감소시킨다.",
+    "3b7d3657-dc84-458f-9a1c-3a809220a8a3": "<b>강자 솎</b> 아내기가 추가로 - <u>(</u><u>대상의</u>{g|Encyclopedia:Deflection}위협도{/g}) 만큼의 <u> 대상의 위협도</u>, - <u>(2 × 대상</u>의 위협도) 만큼의 {g|Encyclopedia:WarhammerWillpower}의지력{/g}, - <u>(2 × 대상의 위협도</u> ) 만큼의 {g|Encyclopedia:WarhammerToughness}강인함{/g}을 감소시킨다.",
     "4183c02b-673e-4e52-bc67-ef9234111daa": "<b>맹추격</b>{g|Encyclopedia:Range}사거리{/g}가 무제한이 되고, 대상의 {g|Encyclopedia:Armour}방어력{/g}을 {g|Encyclopedia:Round}2라운드{/g} 동안 - {uip|ArmourReduction|8f583f74dfec446faa1fd96d186147b0}%한다.",
     "1c36608f-ffe7-4224-a49d-a40ee9850e40": "<b>무리의</b> 일원이 되면 아군은 먹잇감에 대한 {g|Encyclopedia:DamageGlossary}공격력{/g}이 + <u>(2 × {g|Encyclopedia:Prey}먹잇감{/g}의 {g|Encyclopedia:DifficultyTier}위협도{/g})</u> % 증가한다.",
     "b123449a-5de7-4073-abbf-bfcb457499c6": "모든 {g|Encyclopedia:Prey}먹{/g}이의 {g|Encyclopedia:MovementPoints}MP{/g}가 -<u>({g|Encyclopedia:WarhammerAgility}AGI{/g} {g|Encyclopedia:Bonus}보너스{/g}-3)</u> . 단, -2 이하는 되지 않는다.",
