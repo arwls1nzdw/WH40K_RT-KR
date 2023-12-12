@@ -37,7 +37,7 @@
     "c5cadf4c-0631-4d1c-a3e8-29680f265f22": "{g|Encyclopedia:AttackOfOpportunityFullGlossary}기회 공격{/g}에 {g|Encyclopedia:WarhammerAgility}민첩{/g} +5와 + <u>( 4 × (AGI {g|Encyclopedia:Bonus}보너스{/g} + {g|Encyclopedia:SoulMarkFaith}제국{/g} 등급))</u> %의 {g|Encyclopedia:DodgeGlossary}회피{/g}가 부여된다.",
     "459af1d9-0ff4-4f6c-8077-6c6cc9e1f554": "블랙 아콘 그리브",
     "463f0e4d-67c4-4157-ad73-1bbd5b0c906d": "사용자가 자신의 턴에서 {g|Encyclopedia:MovementPoints}MP{/g}를 사용하지 않으면 다음 {g|Encyclopedia:Turn}턴{/g}종료까지 {g|Encyclopedia:DetailsOfTheCoverGlossary}커버 효과{/g}가 배가 되어 강제 이동 효과를 무효로 한다.",
-    "17a63059-59cc-4389-b716-eac530a8096d": "사용자가 자신의 {g|Encyclopedia:Turn}턴에서{/g} {g|Encyclopedia:MovementPoints}MP{/g}를 사용하지 않은 경우, 다음 턴 종료까지 하프 커버의 {g|Encyclopedia:DetailsOfTheCoverGlossary}커버 효율{/g}이 배가 된다 .",
+    "17a63059-59cc-4389-b716-eac530a8096d": "사용자가 자신의 {g|Encyclopedia:Turn}턴에서{/g} {g|Encyclopedia:MovementPoints}MP{/g}를 사용하지 않은 경우, 다음 턴 종료까지 반엄폐의 {g|Encyclopedia:DetailsOfTheCoverGlossary}커버 효율{/g}이 배가 된다 .",
     "92aaafb1-c4a3-41d6-83b0-260205b237ad": "사용자가 양손에 {g|Encyclopedia:MeleeAttacksGlossary}근접{/g}공격용 무기를 보유하고 있는 경우, <b>일섬</b>{g|Encyclopedia:Ability}능력{/g}에 의해 서브 무기에 의한 추가의 근접 공격을 실시한다.",
     "e57b6436-929a-4af4-8eef-e59f0eaa3264": "개량형 경량 부츠",
     "ac838aaf-52d4-46ad-b08b-a0719a6fe2a9": "착용자의 {g|Encyclopedia:MovementPoints}이동 포인트{/g}를 +3 증가시킨다.",
