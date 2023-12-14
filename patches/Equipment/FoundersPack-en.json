@@ -1,7 +1,7 @@
 {
+    "ac27f7ed-2dda-427d-bc7a-55e9ddbfaf8d": "Attacks from this pistol inflict the {g|Encyclopedia:MeltingEffect}melting{/g} {g|Encyclopedia:CommonStatuses}effect{/g}.\n<indent=5%>+5 {g|Encyclopedia:SkillPersuasion}Persuasion{/g}</indent>",
+    "f98e4ce2-a96b-4bd8-8baf-daa924583bb7": "Mark of the Ruler",
     "1a014d07-5443-478e-be15-18c17ae83982": "Negotiator Pistol",
     "376f5681-8670-4beb-9419-52bd060ced01": "The wearer receives −5 less {g|Encyclopedia:DamageGlossary}damage{/g} from critical {g|Encyclopedia:HitSequenceGlossary}hits{/g}.\nThe wearer gains +10 {g|Encyclopedia:SkillCoercion}Coercion{/g}.",
-    "71787dba-da2f-4f86-aa76-5f49a152b011": "Xenopelt Cloak",
-    "ac27f7ed-2dda-427d-bc7a-55e9ddbfaf8d": "Attacks from this pistol inflict the {g|Encyclopedia:MeltingEffect}melting{/g} {g|Encyclopedia:CommonStatuses}effect{/g}.\n<indent=5%>+5 {g|Encyclopedia:SkillPersuasion}Persuasion{/g}</indent>",
-    "f98e4ce2-a96b-4bd8-8baf-daa924583bb7": "Mark of the Ruler"
+    "71787dba-da2f-4f86-aa76-5f49a152b011": "Xenopelt Cloak"
 }

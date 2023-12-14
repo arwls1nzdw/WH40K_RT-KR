@@ -1,12 +1,12 @@
 {
-    "1fa94b66-326b-45c4-a4ef-4c74a22b43f1": "Offer a prayer",
-    "4977376e-1f13-48af-9451-c29fc34a6987": "Turn your thoughts to the God-Emperor",
-    "4df6fa57-f443-410b-ac9e-11ba579ed0b8": "Force access",
-    "57bbe667-0be2-43e0-9f5d-d68a8f5879e7": "Open",
-    "5f57f465-fdd3-412e-9cae-b71a14f0fbf4": "Jump",
-    "5fe26047-4b38-4851-8ac1-9247cba344cb": "Examine",
-    "6a7831db-442e-4e35-ba68-c7336135c87e": "Demolish",
     "7ebb4d9c-3554-4ad6-ba9c-a98e34116994": "Clear",
+    "6a7831db-442e-4e35-ba68-c7336135c87e": "Demolish",
+    "5fe26047-4b38-4851-8ac1-9247cba344cb": "Examine",
+    "4df6fa57-f443-410b-ac9e-11ba579ed0b8": "Force access",
+    "5f57f465-fdd3-412e-9cae-b71a14f0fbf4": "Jump",
+    "1fa94b66-326b-45c4-a4ef-4c74a22b43f1": "Offer a prayer",
+    "57bbe667-0be2-43e0-9f5d-d68a8f5879e7": "Open",
+    "b22a68aa-2cc2-4596-831d-d54b418b396b": "Pick the lock",
     "a7c1bcf9-85e4-4fdb-9755-72aa74f1ad87": "Turn off",
-    "b22a68aa-2cc2-4596-831d-d54b418b396b": "Pick the lock"
+    "4977376e-1f13-48af-9451-c29fc34a6987": "Turn your thoughts to the God-Emperor"
 }

@@ -1,9 +1,9 @@
 {
-    "12810733-f395-476d-b494-8970b35fd5c5": "Atmospheric Cogitator",
-    "8711ebfc-d80d-4a35-8ddc-e25f03093dd3": "Valve",
-    "877d24c6-f851-48f8-869e-a7cf4a1adf5c": "Open the valve",
     "d37b7f8e-127a-46e1-ab42-63fafb6cb14c": "Air Recirculator",
-    "d94b4bce-1e81-4aef-b466-67e4e40192e5": "Set up the cogitator",
+    "12810733-f395-476d-b494-8970b35fd5c5": "Atmospheric Cogitator",
+    "fb27faab-0653-459c-a038-50885c22badf": "Attach the gas cylinder",
+    "877d24c6-f851-48f8-869e-a7cf4a1adf5c": "Open the valve",
     "ef383418-2c91-44ad-ab32-d16dddc24bdd": "Repair the cogitator",
-    "fb27faab-0653-459c-a038-50885c22badf": "Attach the gas cylinder"
+    "d94b4bce-1e81-4aef-b466-67e4e40192e5": "Set up the cogitator",
+    "8711ebfc-d80d-4a35-8ddc-e25f03093dd3": "Valve"
 }

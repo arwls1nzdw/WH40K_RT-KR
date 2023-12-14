@@ -1,12 +1,12 @@
 {
-    "0fbae367-30e0-406e-aedd-f2056ccc2e64": "− 50% to {g|Encyclopedia:MovementPoints}MP{/g} and {g|Encyclopedia:DodgeGlossary}dodge{/g}",
-    "2d7373e7-f2be-47d3-9de7-506b9845d960": "The target's {g|Encyclopedia:DodgeGlossary}dodge{/g} is reduced by −{uip|DodgePenalty|10e086fca83f44e0a4e040916d6ef587}.",
+    "fc1eb603-b3d9-4df9-adc7-a74ddc8f6d7e": "(20 × {g|Encyclopedia:PsyRating}psy rating{/g})",
     "4db8a524-b622-450a-94ea-85554e0b199f": "(5 × {g|Encyclopedia:PsyRating}psy rating{/g})",
+    "f634e78f-aa88-4c14-888b-14c1edf305f6": "Dodge Penalty",
     "b4592d1f-6ada-4798-8f4b-bef87ecb1e04": "Dominate",
-    "bbf01d37-2849-482b-a93b-afb2fbbf8f44": "The target must pass a {g|Encyclopedia:WarhammerWillpower}Willpower{/g} {g|Encyclopedia:ResistanceTest}resistance test{/g} with a −{uip|ResistancePenalty|37a95446c4e74c77bf46439923527646} {g|Encyclopedia:Penalty}penalty{/g}, or at their next {g|Encyclopedia:Turn}turn{/g} they will spend all their {g|Encyclopedia:MovementPoints}movement points{/g} to move as close as possible toward the psyker. They can act as normal, but all their MP are spent on moving toward the psyker.\nAt the end of their turn, the target must make the Willpower resistance {g|Encyclopedia:Test}test{/g} again, otherwise they remain under this effect.",
     "c09adabc-4986-4c77-aa53-84c939521123": "Misfortune",
     "e8aa3042-b3c3-4ad8-846a-47e17d71faf0": "Misfortune",
+    "bbf01d37-2849-482b-a93b-afb2fbbf8f44": "The target must pass a {g|Encyclopedia:WarhammerWillpower}Willpower{/g} {g|Encyclopedia:ResistanceTest}resistance test{/g} with a −{uip|ResistancePenalty|37a95446c4e74c77bf46439923527646} {g|Encyclopedia:Penalty}penalty{/g}, or at their next {g|Encyclopedia:Turn}turn{/g} they will spend all their {g|Encyclopedia:MovementPoints}movement points{/g} to move as close as possible toward the psyker. They can act as normal, but all their MP are spent on moving toward the psyker.\nAt the end of their turn, the target must make the Willpower resistance {g|Encyclopedia:Test}test{/g} again, otherwise they remain under this effect.",
+    "2d7373e7-f2be-47d3-9de7-506b9845d960": "The target's {g|Encyclopedia:DodgeGlossary}dodge{/g} is reduced by −{uip|DodgePenalty|10e086fca83f44e0a4e040916d6ef587}.",
     "ef517806-e580-4aa8-ae4a-3dbdf4a5b22d": "Willpower resistance test penalty",
-    "f634e78f-aa88-4c14-888b-14c1edf305f6": "Dodge Penalty",
-    "fc1eb603-b3d9-4df9-adc7-a74ddc8f6d7e": "(20 × {g|Encyclopedia:PsyRating}psy rating{/g})"
+    "0fbae367-30e0-406e-aedd-f2056ccc2e64": "− 50% to {g|Encyclopedia:MovementPoints}MP{/g} and {g|Encyclopedia:DodgeGlossary}dodge{/g}"
 }

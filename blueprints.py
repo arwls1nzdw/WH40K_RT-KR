@@ -89,15 +89,14 @@ if __name__ == "__main__":
             if key not in enGB or key in keyFound:
                 continue
             output['en'][key] = enGB[key]['Text']
-            output['kr'][key] = koKR[key]['Text']
+            output['kr'][key] = koKR[key]['Text'] if key in koKR else enGB[key]['Text']
             keyFound.add(key)
 
         if len(output['en']) == 0:
             continue
 
-        output['en'] = dict(sorted(output['en'].items()))
-        output['kr'] = dict(sorted(output['kr'].items(),
-                            key=lambda x: (enGB[x[0]]['Text'], x[0])))
+        output['en'] = dict(sorted(output['en'].items(), key=lambda x: (enGB[x[0]]['Text'], x[0])))
+        output['kr'] = dict(sorted(output['kr'].items(), key=lambda x: (enGB[x[0]]['Text'], x[0])))
         utils.write_json(output['en'], f"patches/{g}-en.json")
         utils.write_json(output['kr'], f"patches/{g}-kr.json")
 
@@ -107,8 +106,7 @@ if __name__ == "__main__":
         missingData['en'][k] = enGB[k]['Text']
         missingData['kr'][k] = koKR[k]['Text']
 
-    missingData['en'] = dict(sorted(missingData['en'].items()))
-    missingData['kr'] = dict(
-        sorted(missingData['kr'].items(), key=lambda x: (enGB[x[0]]['Text'], x[0])))
+    missingData['en'] = dict(sorted(missingData['en'].items(), key=lambda x: (enGB[x[0]]['Text'], x[0])))
+    missingData['kr'] = dict(sorted(missingData['kr'].items(), key=lambda x: (enGB[x[0]]['Text'], x[0])))
     utils.write_json(missingData['en'], "patches/missing-en.json")
     utils.write_json(missingData['kr'], "patches/missing-kr.json")
