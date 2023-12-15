@@ -38,7 +38,7 @@
     "2b304b51-6b94-45f2-b5c4-050d690aacf0": "Grants +12% {g|Encyclopedia:DodgeReduction}dodge reduction{/g} to the wearer's {g|Encyclopedia:MeleeAttacksGlossary}melee{/g} {g|Encyclopedia:AreaOfEffect}area attacks{/g}.",
     "208d76a0-de14-4523-b730-3da7651cc30e": "Grants +15% {g|Encyclopedia:WarhammerArmourGlossary}armour{/g} against {g|Encyclopedia:WarpDamage}warp damage{/g}.",
     "25e98435-d20c-4e23-9956-a43b1d84b5ea": "Grants +5 {g|Encyclopedia:WarhammerFellowship}Fellowship{/g} for each enemy in a 2-cell radius.",
-    "f84ec2e2-0b68-44e8-ae60-05318d5d2968": "Grants the wearer a +5 {g|Encyclopedia:Bonus}bonus{/g} to {g|Encyclopedia:SkillPersuasion}Persuasion{/g} and +10% {g|Encyclopedia:DetailsOfTheCoverGlossary}cover efficiency{/g}.",
+    "f84ec2e2-0b68-44e8-ae60-05318d5d2968": "Grants the wearer a +5 {g|Encyclopedia:Bonus}bonus{/g} to {g|Encyclopedia:SkillPersuasion}Persuasion{/g}.\nWhenever the wearer is affected by an ally's ability, they gain +3% {g|Encyclopedia:DodgeGlossary}dodge{/g} until end of combat. Stacks.",
     "f06369f0-d2d8-4315-b4cb-69da6d145a04": "Grenadier's Backpack",
     "89b8a5dd-c201-4d14-b0a2-76ac948631d9": "Grenadier's Cloak",
     "9df5bc1d-5681-4b5c-ba97-679204db70c4": "Holo-Field Emitter",

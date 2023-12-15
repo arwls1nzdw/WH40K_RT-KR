@@ -38,7 +38,7 @@
     "2b304b51-6b94-45f2-b5c4-050d690aacf0": "효과 범위 내에 있는 적에게 사용자의 {g|Encyclopedia:MeleeAttacksGlossary}근접{/g} {g|Encyclopedia:AreaOfEffect}범위 공격{/g}에게 +12%의 {g|Encyclopedia:DodgeReduction}회피 감소{/g}를 준다.",
     "208d76a0-de14-4523-b730-3da7651cc30e": "{g|Encyclopedia:WarpDamage}워프 피해{/g} 에 대한 {g|Encyclopedia:WarhammerArmourGlossary}방어력{/g}이 15% 증가합니다.",
     "25e98435-d20c-4e23-9956-a43b1d84b5ea": "반경 2셀 이내의 적 각각에게 {g|Encyclopedia:WarhammerFellowship}연대{/g}를 5 준다.",
-    "f84ec2e2-0b68-44e8-ae60-05318d5d2968": "사용자의 {g|Encyclopedia:SkillPersuasion}지각 판정{/g}에 +5의 {g|Encyclopedia:Bonus}보너스{/g}와 {g|Encyclopedia:DetailsOfTheCoverGlossary}차폐 효율{/g}이 +10%된다.",
+    "f84ec2e2-0b68-44e8-ae60-05318d5d2968": "착용자에게 {g|Encyclopedia:SkillPersuasion}설득{/g}에 +5 {g|Encyclopedia:Bonus}보너스{/g}를 부여합니다.\n착용자가 아군의 능력에 영향을 받을 때마다, 전투 종료 시까지 {g|Encyclopedia:DodgeGlossary}회피{/g} +3%를 얻습니다. 중첩됩니다.",
     "f06369f0-d2d8-4315-b4cb-69da6d145a04": "척탄병 배낭",
     "89b8a5dd-c201-4d14-b0a2-76ac948631d9": "철탄병의 망토",
     "9df5bc1d-5681-4b5c-ba97-679204db70c4": "홀로필드 이미터",

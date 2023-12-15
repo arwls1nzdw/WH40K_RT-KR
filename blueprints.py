@@ -80,6 +80,16 @@ if __name__ == "__main__":
                     grouped[current[f]].remove(f)
                 current[f] = g
 
+    typo_list = utils.load_csv("typo_list.csv")
+
+    def fix_typo(text: str):
+        for typo in typo_list:
+            text = text.replace(typo[0], typo[1])
+        return text
+
+    for v in enGB.values():
+        v['Text'] = fix_typo(v['Text'])
+
     keyFound = set()
     for g in grouped:
         output = defaultdict(dict)

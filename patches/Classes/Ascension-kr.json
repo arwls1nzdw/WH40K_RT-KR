@@ -51,7 +51,7 @@
     "67517663-d992-4726-9a96-cb12c4a7256f": "이 캐릭터의 {g|Encyclopedia:Ability}능력{/g}에 의해 {g|Encyclopedia:ExtraTurn}추가 턴{/g}이 주어지거나 {g|Encyclopedia:Talent}탤런트{/g}에게 {g|Encyclopedia:MovementPoints}이동 포인트{/g}가 주어졌습니다. 경우 대상은 추가로 이동 포인트가 +4된다. {g|Encyclopedia:ActionPoints}액션 포인트{/g}의 경우, 대상은 추가로 액션 포인트가 +1된다.",
     "1e5660d2-6d48-4d98-a9e5-71770ea3aa01": "이 캐릭터가 현재의 무기 세트에 권총을 1개 이상 가지고 있는 경우, 전투 개시시에 {g|Encyclopedia:ExtraTurn}추가 턴{/g}을 얻는다. 이 추가 {g|Encyclopedia:Turn}턴{/g} 중, 이 캐릭터는 현재의 무기 세트 내의 권총 1개당 1회 공격을 할 수 있다(권총에 의해 주어진 공격 전부)",
     "0cf0afa5-48a1-438b-b664-c1b7b126dc0b": "이 캐릭터의 {g|Encyclopedia:ArmourPenetration}아머 관통{/g}이 적의 {g|Encyclopedia:WarhammerArmourGlossary}아머{/g}보다 높은 경우, 그 적에 대한 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}이 이 캐릭터의 아머 관통과 적의 갑옷의 차이 5% 당 +2%된다.",
-    "7a4d52d3-aca3-4c23-b083-ed3236a1c259": "이 캐릭터의 {g|Encyclopedia:DodgeReduction}회피 감소{/g}가 적의 {g|Encyclopedia:DodgeGlossary}회피{/g}보다 높은 경우, 그 적에 대한 {g|Encyclopedia:DamageGlossary}피해{/g}가 이 캐릭터의 회피 감소와 적의 회피의 차분 5%당 +1%된다. 이 {g|Encyclopedia:Bonus}보너스{/g} 데미지는 {g|Encyclopedia:CritChancesAndCritDamageGlossary}크리티컬 히트{/g}에서는 3배가 된다.",
+    "7a4d52d3-aca3-4c23-b083-ed3236a1c259": "캐릭터의 {g|Encyclopedia:DodgeReduction}회피 감소{/g}가 적의 {g|Encyclopedia:DodgeGlossary}회피{/g}보다 높으면(중갑(0.75) 또는 중갑(0.5) 방어력 패널티 적용 전), 캐릭터의 회피 감소와 적의 회피가 5% 차이 날 때마다 해당 적에 대한 캐릭터의 {g|Encyclopedia:DamageGlossary}피해{/g}가 +1%씩 증가합니다. 이 {g|Encyclopedia:Bonus}보너스{/g} 공격력은 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타{/g}에 대해 세 배로 증가합니다.",
     "bc14abcf-7032-4a7e-b265-1aa652a17a59": "전지",
     "5862c45f-9e72-495b-bd41-de5cab5d50ef": "치명적인 위협",
     "c7151380-fa49-44a3-b629-298602150cd1": "전격적인 반사",
